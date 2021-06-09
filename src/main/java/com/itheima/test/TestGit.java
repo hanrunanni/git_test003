@@ -9,8 +9,8 @@ public class TestGit {
         System.out.println("master------2222");
 
 
-        System.out.println("'55555555555555555'");
+        System.out.println("'5555558888888855555555555'");
 
-        System.out.println("pushµ½Ô¶³Ì¿â");
+     
     }
 }
